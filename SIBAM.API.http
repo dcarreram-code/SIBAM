@@ -1,0 +1,6 @@
+@SIBAM.API_HostAddress = http://localhost:5171
+
+GET {{SIBAM.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
